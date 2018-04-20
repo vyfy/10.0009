@@ -1,0 +1,17 @@
+Pavel Popov 1 f 5 4 4 4
+Ivan Ivanov 1 f 5 4 3 5
+Chetir Chetirovich 1 f 5 5 5 5
+Ludvig Bethoven 1 f 2 2 3 4
+Ms Greywife 1 m 5 4 4 4
+Aariana Wrynn 2 m 3 3 5 4
+Amanda Herose 2 m 5 4 5 4
+El Gore 2 f 5 5 4 4
+Janna deBrissak 3 m 5 5 5 5
+Elza Tyop 3 m 3 3 5 5
+Ketty Perry 4 m 5 4 5 4
+Jack Morrison 4 f 5 5 4 4
+Bender Rodrigez 3 f 5 4 4 4
+Kapitan Blad 3 f 5 4 3 5
+Jack Vorobei 4 m 5 5 5 5
+Ted Alehov 4 m 5 5 5 5
+TY Terran 5 f 3 3 3 3
